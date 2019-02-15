@@ -1,0 +1,12 @@
+{
+    "description": null,
+    "headers": [
+        "Detectors.h",
+        "Regulators.h",
+        "Binarization.h"
+    ],
+    "name": "NTI3",
+    "sources": [
+        "main.cpp"
+    ]
+}
