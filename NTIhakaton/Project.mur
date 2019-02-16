@@ -1,0 +1,12 @@
+{
+    "description": null,
+    "headers": [
+        "Detectors.h",
+        "Regulators.h",
+        "Binarization.h"
+    ],
+    "name": "NTIhakaton",
+    "sources": [
+        "main.cpp"
+    ]
+}
